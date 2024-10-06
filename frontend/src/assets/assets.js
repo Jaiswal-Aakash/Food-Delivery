@@ -184,7 +184,7 @@ export const food_list = [
     }, {
         _id: "10",
         name: "Fruit Ice Cream",
-        image: food_10,
+        image: food_10, 
         price: 232,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Deserts"
